@@ -1,46 +1,46 @@
 {
-name: "Abdoutech.org",
-short_name: "Abdou Tech",
-start_url: "https://www.abdoutech.org/",
-display: "standalone",
-background_color: "#fff",
-theme_color: "#475bcf",
-description: "مدونة عبدو تكنولوجي او عبدو تك من أفضل المدونات التيقنية في مجال البرمجة وتطوير المواقع  و تركز على تطوير منصة بلوجر بنشر اخر القوالب و الإضافات.",
-icons: [
-{
-src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNTq-IrPXAVlsJPm19fHBlva5HS-d7PnvQISRG7dHEWksLs6yFc6FUXcDGKZ_uTf5d_f9YM0W1wDJfnUsuOWN_2wBc0xAQBWtsZ9ZiVnFcxgclb0eCKAq5bfCxuY3uai6-Q2dit5jw32mPgTIqFzQkkaHZbxCPgsMXT5B4oF6VaEITegvvNtkh19REgOg/s1600/favicon-48x48.png",
-sizes: "48x48",
-type: "image/png"
-},
-{
-src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB3YxwxA2WLenTPsfio8pTLMPpO__ZYIs9XWDPDZ1XgW1bfCUCrNXsZtQuO5eVblSnG_EplYG0d82pxZf6QocF1K9JtRWv0RZHpv8-YDUvDoW_gkFGOu0590bKPIpWoX4VRj3x4X6BeifSsrboE_EGFb8AFyc33qh2t0FRCSqeGnkCgUQgRDP72W_rAU8/s1600/favicon-72x72.png",
-sizes: "72x72",
-type: "image/png"
-},
-{
-src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGQUxNHD9tkDwgojWAvQtaHHbALG98Pp2aMbj5fRDjoLlhHbVtP5mW-YctP0vRf_UkTy2p8URGFyUEtM3lJI3JDws7calMICk76u0kKRD4JCDEb-STnwy-jSVZFuswWE8pibg0Xy3r5BpEXhSPZOyaEPNL6SIJnggSf8zLktTvk9M8iumBlbcV3Yg3l3s/s1600/favicon-96x96.png",
-sizes: "96x96",
-type: "image/png"
-},
-{
-src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4SySoZRmwSs4qSbJNZxSPizoHDYz_IodaWUWWA6QRmtdkTJKLx58teQvQ-DP4Ddtz7oCrsBHFDF8Y-7EsjpPzUfm1kMmzPhbU0xqMLQc1m5gOz56orFUPHTFYDksleq-JJ6F1bIBrn1XPYlHix2izTDSpUDutaw93RiHfnYTkiOCC_AuffdXLBe95Rk/s1600/favicon-144x144.png",
-sizes: "144x144",
-type: "image/png"
-},
-{
-src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj723-bQQMa7wht3_qk-1gVZE8QauBSd8mLqZCdkRdMpChVNlbiWzkq6nugdarA9dYhVJBgIZRfD7EutCEY6GwgcOyWNjCiXaY3xyPxiLrYo_gH7K5fHZvogsMeB8rR8kb1QscNZl0XktQSHIIuUMGtXrqM60pQ4OCTgiRZSqmjqprG_CBfM21-qcIDF3A/s1600/favicon-168x168.png",
-sizes: "168x168",
-type: "image/png"
-},
-{
-src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVmtndlQCMdcSpm0LHiIhK_axD9HAjYzGxeM6IRLKt178rec_czDkOwqt_ZZ7fjD3d99v2kW-9a4agrtmt4A-r8Y3WX30WmqrY0w7bD_9infu4VvZXLAD0Jzp0q8arHJR9f1AFbvsXTeVsJLbbxliEZt_2c-K_FLODyCvShfdEWk_jWZ477aHSs6iO04g/s1600/favicon-192x192.png",
-sizes: "192x192",
-type: "image/png"
-},
-{
-src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjr-WDkuR3LteDOpKyPLS54ugEbyJA7eUgdN6nAmD3NYmX_MplHJV37OO_C7qsGHh7Jftxx0iSyXyTrcJCIr5q4Ck1-CFDcoVfxz1f5sXQ5V0780q3JfenYmzNhD0HmP7B6pTegpfqD6IzyDnRtJQosV-qzV9BtxaZ4LTZ_Z5sX5sr4dunIA_Xd1UFXr8/s1600/favicon-512x512.png",
-sizes: "512x512",
-type: "image/png"
-}
-]
+   "name":"Abdoutech.org",
+   "short_name":"Abdou Tech",
+   "start_url":"https://www.abdoutech.org/",
+   "display":"standalone",
+   "background_color":"#fff",
+   "theme_color":"#475bcf",
+   "description":"مدونة عبدو تكنولوجي او عبدو تك من أفضل المدونات التيقنية في مجال البرمجة وتطوير المواقع  و تركز على تطوير منصة بلوجر بنشر اخر القوالب و الإضافات.",
+   "icons":[
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNTq-IrPXAVlsJPm19fHBlva5HS-d7PnvQISRG7dHEWksLs6yFc6FUXcDGKZ_uTf5d_f9YM0W1wDJfnUsuOWN_2wBc0xAQBWtsZ9ZiVnFcxgclb0eCKAq5bfCxuY3uai6-Q2dit5jw32mPgTIqFzQkkaHZbxCPgsMXT5B4oF6VaEITegvvNtkh19REgOg/s1600/favicon-48x48.png",
+         "sizes":"48x48",
+         "type":"image/png"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB3YxwxA2WLenTPsfio8pTLMPpO__ZYIs9XWDPDZ1XgW1bfCUCrNXsZtQuO5eVblSnG_EplYG0d82pxZf6QocF1K9JtRWv0RZHpv8-YDUvDoW_gkFGOu0590bKPIpWoX4VRj3x4X6BeifSsrboE_EGFb8AFyc33qh2t0FRCSqeGnkCgUQgRDP72W_rAU8/s1600/favicon-72x72.png",
+         "sizes":"72x72",
+         "type":"image/png"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGQUxNHD9tkDwgojWAvQtaHHbALG98Pp2aMbj5fRDjoLlhHbVtP5mW-YctP0vRf_UkTy2p8URGFyUEtM3lJI3JDws7calMICk76u0kKRD4JCDEb-STnwy-jSVZFuswWE8pibg0Xy3r5BpEXhSPZOyaEPNL6SIJnggSf8zLktTvk9M8iumBlbcV3Yg3l3s/s1600/favicon-96x96.png",
+         "sizes":"96x96",
+         "type":"image/png"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4SySoZRmwSs4qSbJNZxSPizoHDYz_IodaWUWWA6QRmtdkTJKLx58teQvQ-DP4Ddtz7oCrsBHFDF8Y-7EsjpPzUfm1kMmzPhbU0xqMLQc1m5gOz56orFUPHTFYDksleq-JJ6F1bIBrn1XPYlHix2izTDSpUDutaw93RiHfnYTkiOCC_AuffdXLBe95Rk/s1600/favicon-144x144.png",
+         "sizes":"144x144",
+         "type":"image/png"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj723-bQQMa7wht3_qk-1gVZE8QauBSd8mLqZCdkRdMpChVNlbiWzkq6nugdarA9dYhVJBgIZRfD7EutCEY6GwgcOyWNjCiXaY3xyPxiLrYo_gH7K5fHZvogsMeB8rR8kb1QscNZl0XktQSHIIuUMGtXrqM60pQ4OCTgiRZSqmjqprG_CBfM21-qcIDF3A/s1600/favicon-168x168.png",
+         "sizes":"168x168",
+         "type":"image/png"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVmtndlQCMdcSpm0LHiIhK_axD9HAjYzGxeM6IRLKt178rec_czDkOwqt_ZZ7fjD3d99v2kW-9a4agrtmt4A-r8Y3WX30WmqrY0w7bD_9infu4VvZXLAD0Jzp0q8arHJR9f1AFbvsXTeVsJLbbxliEZt_2c-K_FLODyCvShfdEWk_jWZ477aHSs6iO04g/s1600/favicon-192x192.png",
+         "sizes":"192x192",
+         "type":"image/png"
+      },
+      {
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjr-WDkuR3LteDOpKyPLS54ugEbyJA7eUgdN6nAmD3NYmX_MplHJV37OO_C7qsGHh7Jftxx0iSyXyTrcJCIr5q4Ck1-CFDcoVfxz1f5sXQ5V0780q3JfenYmzNhD0HmP7B6pTegpfqD6IzyDnRtJQosV-qzV9BtxaZ4LTZ_Z5sX5sr4dunIA_Xd1UFXr8/s1600/favicon-512x512.png",
+         "sizes":"512x512",
+         "type":"image/png"
+      }
+   ]
 }
